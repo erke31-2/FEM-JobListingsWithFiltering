@@ -26,7 +26,10 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./public/screenshots/Screenshot%202023-06-11%20at%2013.27.13.png)
+![](./public/screenshots/Screenshot%202023-06-11%20at%2013.27.35.png)
+![](./public/screenshots/Screenshot%202023-06-11%20at%2013.27.47.png)
+![](./public/screenshots/Screenshot%202023-06-11%20at%2013.28.00.png)
 
 
 ### Links
