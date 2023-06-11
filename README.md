@@ -27,9 +27,22 @@ Users should be able to:
 ### Screenshot
 
 ![](./public/screenshots/Screenshot%202023-06-11%20at%2013.27.13.png)
+mobile view
+
+
+
 ![](./public/screenshots/Screenshot%202023-06-11%20at%2013.27.35.png)
+mobile view with filtering
+
+
+
 ![](./public/screenshots/Screenshot%202023-06-11%20at%2013.27.47.png)
+desktop view
+
+
+
 ![](./public/screenshots/Screenshot%202023-06-11%20at%2013.28.00.png)
+desktop view with filtering
 
 
 ### Links
