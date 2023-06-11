@@ -1,19 +1,11 @@
 import JobCard from "./components/JobCard";
 import FilterInput from "./components/FilterInput";
-import { useQuery } from "@tanstack/react-query";
 import { useMemo, useState } from "react";
 import { Job } from "./types/types";
+import data from "../data/data.json"
 
 const App = () => {
-  const { data: jobs } = useQuery<Job[]>({
-    queryKey: ["jobs"],
-    queryFn: async () => {
-      const res = await fetch("../data/data.json");
-      const jobs = await res.json();
-      return jobs;
-    },
-  });
-
+  const [jobs, setJobs] = useState<Job[]>(data)
   const [query, setQuery] = useState<string[]>([]);
 
   // const filterJobs =

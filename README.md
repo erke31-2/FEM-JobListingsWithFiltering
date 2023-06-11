@@ -47,8 +47,8 @@ desktop view with filtering
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/erke31-2/frontend-mentor-job-listings-with-filtering]
+- Live Site URL: []
 
 ## My process
 
